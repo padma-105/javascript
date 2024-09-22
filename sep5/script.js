@@ -72,7 +72,7 @@ if(gpa >=3.5){
 else if (gpa >= 3 && activity <= 2){
         console.log("eligible for leadership membership");
 }
-else if (gpa >= hours >= 100){
+else if (gpa >= 2.5 && hours >= 100){
     console.log("eligible for community service membership")
 }
 else{
